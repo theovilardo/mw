@@ -9,7 +9,7 @@
 		"featured": true,
 		"downloadable": false
 	},
-  {
+  	{
 		"name": "Material You Draw Green",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20green.png",
@@ -19,7 +19,7 @@
 		"featured": true,
 		"downloadable": false
 	},
-  {
+  	{
 		"name": "Material You Draw Orange",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20orange.png",
@@ -29,12 +29,32 @@
 		"featured": true,
 		"downloadable": false
 	},
-  {
+  	{
 		"name": "Material You Shapes 2",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes%202-1.png",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes%202-1.png",
 		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Material You 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Material You 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%202.png",
+		"dimensions": "750x1334",
 		"collections": "featured,abstract,material you",
 		"featured": true,
 		"downloadable": false
