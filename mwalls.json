@@ -132,8 +132,8 @@
 	{
 		"name": "Pixel 6 Fall",
 		"author": "Google",
-		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p6.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p6.jpg",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p6-o.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p6-o.jpg",
 		"dimensions": "1440x3122",
 		"collections": "featured,abstract,material you",
 		"featured": true,
