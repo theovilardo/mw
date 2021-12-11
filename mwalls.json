@@ -78,5 +78,75 @@
 		"collections": "featured,abstract,material you",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Green",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p1.jpg",
+		"dimensions": "2160x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 4 Colors",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p2.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p2.jpg",
+		"dimensions": "1080x2160",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Rose Dark",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p3.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p3.jpg",
+		"dimensions": "2160x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Spikes",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p4.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p4.jpg",
+		"dimensions": "2160x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Violettes",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p5.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p5.jpg",
+		"dimensions": "2880x3120",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Fall",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p6.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p6.jpg",
+		"dimensions": "1440x3122",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Flower Draw",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/mw/main/p7.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/mw/main/p7.jpg",
+		"dimensions": "1440x3122",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
 	}
 ]
