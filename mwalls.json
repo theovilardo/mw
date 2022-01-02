@@ -1,5 +1,25 @@
 [
-  {
+  	{
+		"name": "Material You 0",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/0.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/0.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/2.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/2.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
 		"name": "Material You Draw Blue",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20blue.png",
